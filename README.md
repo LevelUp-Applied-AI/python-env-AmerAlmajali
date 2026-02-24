@@ -27,3 +27,12 @@ python -m pip install -r requirements-prework.txt
 2. Complete the work
 3. Push the branch and open a PR from your branch to `main`
 4. Submit the PR URL in TalentLMS
+
+
+When you would choose a Jupyter notebook over a script?
+
+I would choose Jupyter Notebook when I need to experiment or test. It gives me the ability to write full descriptions alongside my code. Additionally, I can run each cell independently, so I can test each command alone and try different approaches.
+
+When you would choose a script over a notebook?
+I would choose a Python script when I just want to upload a Python code that I am certain will run. In this case, I do not need to check any part of the code separately.Additonally,
+when i need the code to be clear and the interactivity was not required.
